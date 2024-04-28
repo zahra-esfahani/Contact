@@ -1,0 +1,20 @@
+h3{
+    color: blue;
+    font-size: 1.5rem;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    border: 2px solid #eaeaea;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.containerP{
+    width: 100%;
+    border: 2px solid #eaeaea;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: #eaeaea;
+    height: 100px;
+    line-height: 100px;
+}
